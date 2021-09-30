@@ -1,1 +1,3 @@
-# putri-Zhachilia-susanto-Tugas-6
+# putri Zhachilia susanto
+# PTIK C
+# 200209502021
